@@ -12,4 +12,4 @@
 1. Установите зависимости:
    `pip install -r requirements.txt`
 2. Запустите приложение:
-   `python typing_multi.py`
+   `python Typing Speed Trainer.py`
